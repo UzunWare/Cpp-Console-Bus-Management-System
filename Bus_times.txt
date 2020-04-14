@@ -1,0 +1,5 @@
+	2		04 00 Pm		09 00 Pm		Karachi		Peshawr
+	5		03 35 pm		06 12 pm		Multan		Lahore
+	8		12 00 Am		03 00 Am		lahore		multan
+	1		11 00 Am		03 30 Pm		lahore		Isl
+	7		07 00 Am		03 00 Pm		Lahore		Karachi
